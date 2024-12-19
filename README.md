@@ -34,7 +34,7 @@ Additionally, we calculated the Purchasing Power Parity by using the price in Ca
 
 The resulting table is displayed in the picture below.
 
-<table border="1" class="dataframe">
+<table border="0" class="dataframe">
 <thead>
 <tr>
 <th>country</th> <th>price of latte in USD</th> <th>price of latte in CAD</th> <th>Purchasing Power Parity</th>
@@ -103,9 +103,3 @@ The resulting table is displayed in the picture below.
 </tr>
 </tbody>
 </table>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
