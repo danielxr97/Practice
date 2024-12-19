@@ -1,13 +1,14 @@
 <h1 style="text-align: center; font-weight: bold;">The Starbucks Latte Index</h1>
+<h1 style="text-align: center; font-size: 12px; font-weight: bold;">By Daniel Rabi and Joseph J. Gonzales</h1>
 
 ![Pumpkin spice latte](picture.png "Pumpkin spice latte")
 
 Have you ever wondered if your dollar is valued the same no matter what country you are in? Have you ever wondered if you actually get your money’s worth when buying goods in other countries?
 
 # Purchasing Power Parity
-Understanding purchasing power parity is crucial as it can help you answer these questions. It measures the differences in price levels between countries in that country’s currency. It helps you find an exchange rate based on price levels, which may be lower or higher than the nominal exchange rate set by the Bank of Canada. Having a higher PPP than the exchange rate means that you could buy coffee in another country cheaper than what you can buy in Canada.
+Understanding purchasing power parity is crucial as it provides a global perspective on economic transactions. Purchasing Power Parity, or PPP, measures the differences in price levels between countries compared to one base country's currency. By creating a PPP index, we can find an exchange rate based on price levels that may be lower or higher than the nominal exchange rate set by the Bank of Canada. Having a higher PPP than the exchange rate means that you could buy coffee in another country cheaper than what you can buy in Canada.
 
-To make this concept more tangible, we have created a Starbucks Tall Latte Index, which shows the prices of tall lattes in different countries. This index is a practical tool to understand the implications of purchasing power parity.
+Bringing this concept to life, we've developed a Starbucks Tall Latte Index. This index compares the prices of tall lattes in various countries to the Canadian currency, making the implications of purchasing power parity more tangible and engaging.
 
 # Why Starbucks Latte?
 Starbucks latte is a tasty, energizing drink that many people consume daily. Starbucks is one of the most recognizable coffee companies, with many locations worldwide. Additionally, consumers worldwide expect to drink the same latte in Canada, just as in Brazil. Similarly, consumers would expect their currency's value to be the same in other countries and afford a latte across different countries for the same value.
