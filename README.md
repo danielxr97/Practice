@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-size: 24px; font-weight: bold;">The Starbucks Latte Index</h1>
+<h1 style="text-align: center; font-weight: bold;">The Starbucks Latte Index</h1>
 
 ![Pumpkin spice latte](picture.png "Pumpkin spice latte")
 
