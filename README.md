@@ -192,7 +192,7 @@ Below is the table that we have created.
 <table border="0" class="dataframe">
 <thead>
 <tr>
-<th>Country</th> <th>Currency</th> <th>Currency Code</th> <th>Latte Price in local currency</th> <th>Latte Price (CAD)</th> <th>Sales Tax</th> <th>Price Difference (CAD)</th> <th>Purchasing Power Parity</th> <th>Purchasing Power Parity with tax</th>
+<th>Country</th> <th>Currency</th> <th>Currency Code</th> <th>Latte Price in Local Currency</th> <th>Latte Price (CAD)</th> <th>Sales Tax</th> <th>Price Difference (CAD)</th> <th>Purchasing Power Parity</th> <th>Purchasing Power Parity With Tax</th>
 </tr>
 </thead>
 <tbody>
