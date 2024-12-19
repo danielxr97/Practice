@@ -1,6 +1,6 @@
 # Practice
 
-<meta content="noindex, follow" name="robots"/></meta></head>
+<meta content="noindex, follow" name="robots"/>
 <body>
 <div data-server-rendered="true" id="__nuxt"><!-- --><div id="__layout"><div class="app"><header data-v-3437026c=""><h1 data-v-3437026c=""><span class="lead" data-v-3437026c="">What is the cost of a</span><br data-v-3437026c=""/>
     Starbucks Tall Latte in Every Country?
