@@ -1993,21 +1993,48 @@ Ultimately, if you are a Starbucks lattes fan looking to maximize its consumptio
 <h1 style="text-align: center;">References</h1>
 <ol style="list-style: none; padding-left: 0;">
   <li style="margin-bottom: 1em;">
-    <span style="display: inline-block; width: 2em;">1.</span>
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      Aisen, A., & Veiga, F. J. (2013). How does political instability affect economic growth?. <em>European Journal of Political Economy, 29</em>, 151-167.
+      Aisen, A., & Veiga, F. J. (2013). <em>How does political instability affect economic growth?<em>. European Journal of Political Economy, 29, 151-167.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
-    <span style="display: inline-block; width: 2em;">2.</span>
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      Klugman, J., Rodríguez, F., & Choi, H. J. (2011, January). <em>Human development index</em>. World Health Organization. <a href="https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living">Link</a>.
+      Bonnie. (2022, February 21). <em>The Price of Starbucks in Every Country<em>. Cash Net USA. <a href="https://www.cashnetusa.com/blog/starbucks-price-every-country/">Link</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
-    <span style="display: inline-block; width: 2em;">3.</span>
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      United Nations Development Programme. (2020). <em>Human Development Report 2019 – Technical notes</em>. Retrieved from <a href="https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf">Archived Link</a>.
+      Insanely Good Recipes. (n.d.). <em>Copycat Starbucks Pumpkin Spice Latte Recipe<em>. Pinterest. Retrieved December 2, 2024, from <a href="https://ar.pinterest.com/pin/365917538496010170/">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      OpenDataSoft. (n.d.). <em>Currency codes<em> [Data set]. Retrieved December 5, 2024, from <a href="https://public.opendatasoft.com/explore/dataset/currency-codes/table/">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      UN Stats. (n.d.). <em>Basic Data Selection<em> [Data set]. Retrieved December 5, 2024, from <a href="https://unstats.un.org/unsd/snaama/Basic">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      United Nations Development Programme. (2020). <em>Human Development Report 2019 – Technical notes<em>. <a href="https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      Wikipedia. (n.d.-a). <em>Value-added tax</em>. Retrieved December 5, 2024, from <a href="https://en.wikipedia.org/wiki/Value-added_tax#References">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      Wikipedia. (n.d.-b). <em>Gross domestic product<em>. Retrieved December 5, 2024, from <a href="https://en.wikipedia.org/w/index.php?title=Gross_domestic_product&useskin=vector#GDP_per_capita">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      World Health Organization. (2024). <em>Human development index<em>. Retrieved December 5, 2024, from <a href="https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living">Link</a>.
     </span>
   </li>
 </ol>
