@@ -1999,42 +1999,42 @@ Ultimately, if you are a Starbucks lattes fan looking to maximize its consumptio
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      Bonnie. (2022, February 21). <em>The Price of Starbucks in Every Country<em>. Cash Net USA. <a href="https://www.cashnetusa.com/blog/starbucks-price-every-country/">Link</a>.
+      Bonnie. (2022, February 21). <em>The Price of Starbucks in Every Country<em>. Cash Net USA. <a href="https://www.cashnetusa.com/blog/starbucks-price-every-country/">https://www.cashnetusa.com/blog/starbucks-price-every-country/</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      Insanely Good Recipes. (n.d.). <em>Copycat Starbucks Pumpkin Spice Latte Recipe<em>. Pinterest. Retrieved December 2, 2024, from <a href="https://ar.pinterest.com/pin/365917538496010170/">Link</a>.
+      Insanely Good Recipes. (n.d.). <em>Copycat Starbucks Pumpkin Spice Latte Recipe<em>. Pinterest. Retrieved December 2, 2024, from <a href="https://ar.pinterest.com/pin/365917538496010170/">https://ar.pinterest.com/pin/365917538496010170/</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      OpenDataSoft. (n.d.). <em>Currency codes<em> [Data set]. Retrieved December 5, 2024, from <a href="https://public.opendatasoft.com/explore/dataset/currency-codes/table/">Link</a>.
+      OpenDataSoft. (n.d.). <em>Currency codes<em> [Data set]. Retrieved December 5, 2024, from <a href="https://public.opendatasoft.com/explore/dataset/currency-codes/table/">https://public.opendatasoft.com/explore/dataset/currency-codes/table/</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      UN Stats. (n.d.). <em>Basic Data Selection<em> [Data set]. Retrieved December 5, 2024, from <a href="https://unstats.un.org/unsd/snaama/Basic">Link</a>.
+      UN Stats. (n.d.). <em>Basic Data Selection<em> [Data set]. Retrieved December 5, 2024, from <a href="https://unstats.un.org/unsd/snaama/Basic">https://unstats.un.org/unsd/snaama/Basic</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      United Nations Development Programme. (2020). <em>Human Development Report 2019 – Technical notes<em>. <a href="https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf">Link</a>.
+      United Nations Development Programme. (2020). <em>Human Development Report 2019 – Technical notes<em>. <a href="https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf">https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      Wikipedia. (n.d.-a). <em>Value-added tax</em>. Retrieved December 5, 2024, from <a href="https://en.wikipedia.org/wiki/Value-added_tax#References">Link</a>.
+      Wikipedia. (n.d.-a). <em>Value-added tax</em>. Retrieved December 5, 2024, from <a href="https://en.wikipedia.org/wiki/Value-added_tax#References">https://en.wikipedia.org/wiki/Value-added_tax#References</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      Wikipedia. (n.d.-b). <em>Gross domestic product<em>. Retrieved December 5, 2024, from <a href="https://en.wikipedia.org/w/index.php?title=Gross_domestic_product&useskin=vector#GDP_per_capita">Link</a>.
+      Wikipedia. (n.d.-b). <em>Gross domestic product<em>. Retrieved December 5, 2024, from <a href="https://en.wikipedia.org/w/index.php?title=Gross_domestic_product&useskin=vector#GDP_per_capita">https://en.wikipedia.org/w/index.php?title=Gross_domestic_product&useskin=vector#GDP_per_capita</a>.
     </span>
   </li>
   <li style="margin-bottom: 1em;">
     <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
-      World Health Organization. (2024). <em>Human development index<em>. Retrieved December 5, 2024, from <a href="https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living">Link</a>.
+      World Health Organization. (2024). <em>Human development index<em>. Retrieved December 5, 2024, from <a href="https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living">https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living</a>.
     </span>
   </li>
 </ol>
