@@ -1990,13 +1990,24 @@ For consumers, the prospect of visiting countries with higher PPP than exchange 
 
 Ultimately, if you are a Starbucks lattes fan looking to maximize its consumption or minimize its cost, you can use our map to find the best country to get more of it! Similarly, our map could guide you to the right investment location if you are a Starbucks executive looking to maximize the company's return on investment, instilling a sense of guidance and confidence in your decision-making process.
 
-# References:
-Aisen, A., & Veiga, F. J., (2013). How does political instability affect economic growth?. European Journal of Political Economy, 29, 151-167.
-
-Klugman J., Rodríguez F., Choi HJ., (2011, January). Human development index, World Health Organization, https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living.
-
-United Nations Development Programme. (2020). Human Development Report 2019 – Technical notes. https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf.
-
-https://www.cashnetusa.com/blog/starbucks-price-every-country/
-
-https://en.wikipedia.org/wiki/Value-added_tax#Around_the_world 
+<h1 style="text-align: center;">References</h1>
+<ol style="list-style: none; padding-left: 0;">
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; width: 2em;">1.</span>
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      Aisen, A., & Veiga, F. J. (2013). How does political instability affect economic growth?. <em>European Journal of Political Economy, 29</em>, 151-167.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; width: 2em;">2.</span>
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      Klugman, J., Rodríguez, F., & Choi, H. J. (2011, January). <em>Human development index</em>. World Health Organization. <a href="https://www.who.int/data/nutrition/nlis/info/human-development-index#:~:text=The%20HDI%20is%20a%20summary,knowledge%20and%20standard%20of%20living">Link</a>.
+    </span>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <span style="display: inline-block; width: 2em;">3.</span>
+    <span style="display: inline-block; text-indent: -2em; padding-left: 2em;">
+      United Nations Development Programme. (2020). <em>Human Development Report 2019 – Technical notes</em>. Retrieved from <a href="https://web.archive.org/web/20210606201849/http://hdr.undp.org/sites/default/files/hdr2020_technical_notes.pdf">Archived Link</a>.
+    </span>
+  </li>
+</ol>
