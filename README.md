@@ -103,3 +103,76 @@ The resulting table is displayed in the picture below.
 </tr>
 </tbody>
 </table>
+
+# 3. Factoring local tax rates into the calculation
+The prices we scraped do not include the tax each Starbucks location would charge the consumers. Therefore, we wanted to examine if sales tax will affect PPP. Consequently, we scraped the sales tax in every country from Wikipedia; since the data was split into Euro and Non-Euro tables, we combined the two tables. Then, we needed to incorporate sales tax into the calculation, which sounded to us more straightforward than it was. It was more complicated than we thought because some countries have sales tax included in their price, and some do not; some countries have provinces, states, and cities that could charge different sales taxes within the same country. To tackle the tax challenge, we took the average sales tax that a consumer will pay in a country. For example, Brazil and Canada happened to have sales taxes that vary with location; therefore, we readjusted their sales tax accordingly. Using the tax data we gathered, we calculated a new PPP that includes sales tax and saved it in a new column. 
+
+This resulted in the following table:
+
+<table border="0" class="dataframe">
+<thead>
+<tr>
+<th>Country</th> <th>Latte Price (USD)</th> <th>Latte Price (CAD)</th> <th>Purchasing Power Parity</th> <th>Sales Tax</th> <th>Purchasing Power Parity with tax</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ANDORRA       </td> <td>3.28             </td> <td>4.61             </td> <td>0.851948               </td> <td>0.045    </td> <td>0.852126                        </td>
+</tr>
+<tr>
+<td>ARGENTINA     </td> <td>4.67             </td> <td>6.56             </td> <td>1.21299                </td> <td>0.21     </td> <td>1.21257                         </td>
+</tr>
+<tr>
+<td>AUSTRALIA     </td> <td>3.97             </td> <td>5.58             </td> <td>1.03117                </td> <td>0.1      </td> <td>1.03142                         </td>
+</tr>
+<tr>
+<td>AUSTRIA       </td> <td>3.48             </td> <td>4.89             </td> <td>0.903896               </td> <td>0.2      </td> <td>0.903882                        </td>
+</tr>
+<tr>
+<td>AZERBAIJAN    </td> <td>3.41             </td> <td>4.79             </td> <td>0.885714               </td> <td>0.18     </td> <td>0.885397                        </td>
+</tr>
+<tr>
+<td>BAHAMAS       </td> <td>3.75             </td> <td>5.27             </td> <td>0.974026               </td> <td>0.12     </td> <td>0.974122                        </td>
+</tr>
+<tr>
+<td>BAHRAIN       </td> <td>4.24             </td> <td>5.95             </td> <td>1.1013                 </td> <td>0.1      </td> <td>1.09982                         </td>
+</tr>
+<tr>
+<td>BELGIUM       </td> <td>3.52             </td> <td>4.94             </td> <td>0.914286               </td> <td>0.21     </td> <td>0.913124                        </td>
+</tr>
+<tr>
+<td>BOLIVIA       </td> <td>3.19             </td> <td>4.48             </td> <td>0.828571               </td> <td>0.13     </td> <td>0.828096                        </td>
+</tr>
+<tr>
+<td>BRAZIL        </td> <td>1.96             </td> <td>2.75             </td> <td>0.509091               </td> <td>0.22     </td> <td>0.508318                        </td>
+</tr>
+<tr>
+<td>BULGARIA      </td> <td>2.69             </td> <td>3.78             </td> <td>0.698701               </td> <td>0.2      </td> <td>0.698706                        </td>
+</tr>
+<tr>
+<td>CAMBODIA      </td> <td>3.25             </td> <td>4.56             </td> <td>0.844156               </td> <td>0.1      </td> <td>0.842884                        </td>
+</tr>
+<tr>
+<td>CANADA        </td> <td>3.85             </td> <td>5.41             </td> <td>1                      </td> <td>0.109981 </td> <td>1                               </td>
+</tr>
+<tr>
+<td>CHILE         </td> <td>4.95             </td> <td>6.95             </td> <td>1.28571                </td> <td>0.19     </td> <td>1.28466                         </td>
+</tr>
+<tr>
+<td>CHINA         </td> <td>4.23             </td> <td>5.94             </td> <td>1.0987                 </td> <td>0.13     </td> <td>1.09797                         </td>
+</tr>
+<tr>
+<td>COLOMBIA      </td> <td>2.5              </td> <td>3.51             </td> <td>0.649351               </td> <td>0.19     </td> <td>0.648799                        </td>
+</tr>
+<tr>
+<td>COSTA RICA    </td> <td>4.22             </td> <td>5.93             </td> <td>1.0961                 </td> <td>0.13     </td> <td>1.09612                         </td>
+</tr>
+<tr>
+<td>CYPRUS        </td> <td>2.97             </td> <td>4.17             </td> <td>0.771429               </td> <td>0.19     </td> <td>0.770795                        </td>
+</tr>
+<tr>
+<td>CZECH REPUBLIC</td> <td>3.93             </td> <td>5.52             </td> <td>1.02078                </td> <td>0.21     </td> <td>1.02033                         </td>
+</tr>
+</tbody>
+</table>
+
